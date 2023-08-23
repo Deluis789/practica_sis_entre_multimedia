@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CD
+comment1.params=elTitulo\ elAutor\ pistas\ tiempo
+comment1.target=CD(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getAutor()
+comment3.params=
+comment3.target=int\ getNumeroDePistas()
+comment4.params=
+comment4.target=void\ print()
+numComments=5
